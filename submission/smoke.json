@@ -29,44 +29,44 @@
   "steps": [
     {
       "name": "docker-load",
-      "started_utc": "2026-10-02T02:16:08.908512+00:00",
+      "started_utc": "2026-10-02T14:35:40.244824+00:00",
       "status": "passed",
-      "ended_utc": "2026-10-02T02:17:47.231694+00:00",
-      "elapsed_seconds": 98.32800000000861
+      "ended_utc": "2026-10-02T14:36:26.278059+00:00",
+      "elapsed_seconds": 46.0309999999954
     },
     {
       "name": "run-A",
-      "started_utc": "2026-10-02T02:17:47.504298+00:00",
+      "started_utc": "2026-10-02T14:36:26.466452+00:00",
       "status": "passed",
-      "ended_utc": "2026-10-02T02:18:14.163518+00:00",
-      "elapsed_seconds": 26.655999999988126,
+      "ended_utc": "2026-10-02T14:36:37.531925+00:00",
+      "elapsed_seconds": 11.062999999994645,
       "boxes": 1,
       "prediction_sha256": "02b1ba0ab8c2054852b74221a0ed31053d7447cded56f1e0fe1f784eb0d44880"
     },
     {
       "name": "run-B",
-      "started_utc": "2026-10-02T02:18:14.415398+00:00",
+      "started_utc": "2026-10-02T14:36:37.535553+00:00",
       "status": "passed",
-      "ended_utc": "2026-10-02T02:18:35.185304+00:00",
-      "elapsed_seconds": 20.75,
+      "ended_utc": "2026-10-02T14:36:46.700775+00:00",
+      "elapsed_seconds": 9.156000000002678,
       "boxes": 13,
       "prediction_sha256": "c2a8db247353f0ef00299ff50acff997b7b4a87bdcfcefe792815acb5652cc80"
     },
     {
       "name": "run-C",
-      "started_utc": "2026-10-02T02:18:35.187351+00:00",
+      "started_utc": "2026-10-02T14:36:46.703901+00:00",
       "status": "passed",
-      "ended_utc": "2026-10-02T02:18:44.038088+00:00",
-      "elapsed_seconds": 8.85899999999674,
+      "ended_utc": "2026-10-02T14:36:52.295290+00:00",
+      "elapsed_seconds": 5.5939999999973224,
       "boxes": 6,
       "prediction_sha256": "8eb5011ad94d91c15937209c0a4c862d4921ca464c732b42d37c12f2e7e7d6ec"
     },
     {
       "name": "qc-cases",
-      "started_utc": "2026-10-02T02:18:44.042222+00:00",
+      "started_utc": "2026-10-02T14:36:52.299442+00:00",
       "status": "passed",
-      "ended_utc": "2026-10-02T02:18:48.113303+00:00",
-      "elapsed_seconds": 4.078000000008615
+      "ended_utc": "2026-10-02T14:36:55.089370+00:00",
+      "elapsed_seconds": 2.7960000000020955
     }
   ]
 }

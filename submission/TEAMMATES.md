@@ -1,13 +1,9 @@
-# Thông tin học viên — Day 13
+# Thành viên nhóm — Day 13
 
-- Họ và tên: **Mai Lưu Ly**
-- Mã số học viên: **2A202602157**
-- Hình thức thực hiện: **Cá nhân**
+> Bản private, không commit lên repo public.
 
-| Lượt | Vai trò thực hiện |
-| --- | --- |
-| A | Vận hành runner, kiểm cấu hình `delta=0`, đọc JSON/CSV và ảnh Side |
-| B | Vận hành runner, kiểm cấu hình `delta=1.73`, đối chiếu kết quả với A |
-| C | Vận hành runner, kiểm cấu hình pillar `0.32`, đối chiếu kết quả với B |
-| QC | Đọc các ca lỗi z có kiểm soát và quyết định hướng xử lý |
+Mã nhóm/phòng: [mã phòng LC cấp] — làm cá nhân
 
+| Họ và tên | MSSV | Vai trò lượt A | Vai trò lượt B | Vai trò lượt C |
+| --- | --- | --- | --- | --- |
+| Vũ Ngọc Huyền | 2A202602323 | Chạy lệnh, kiểm JSON, xem hình học, ghi log | Chạy lệnh, kiểm JSON, xem hình học, ghi log | Chạy lệnh, kiểm JSON, xem hình học, ghi log |

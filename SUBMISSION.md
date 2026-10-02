@@ -1,7 +1,7 @@
-# Bài nộp cá nhân — Day 13
+﻿# Bài nộp cá nhân — Day 13
 
-- Học viên: **Mai Lưu Ly**
-- Mã số học viên: **2A202602157**
+- Học viên: **Vũ Ngọc Huyền**
+- Mã số học viên: **2A202602323**
 - Hình thức: **Cá nhân**
 
 Báo cáo và bằng chứng chạy PointPillars nằm trong thư mục [`submission/`](submission/).
