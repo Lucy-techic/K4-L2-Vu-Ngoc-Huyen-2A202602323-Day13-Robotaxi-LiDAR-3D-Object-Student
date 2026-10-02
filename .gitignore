@@ -35,3 +35,7 @@ K4-DAY13-*/
 !data/ATTRIBUTION.md
 !data/LICENSE.txt
 student-bundles/
+
+# Personal Day 13 submission: report and licensed KITTI-derived evidence only.
+!submission/
+!submission/**
